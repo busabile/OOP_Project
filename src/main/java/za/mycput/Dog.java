@@ -1,9 +1,6 @@
 package za.mycput;
 
-/* test drive
-*  test one
-* */
-
+//Code fixed
 public class Dog {
     private String name;
     private Person owner;
