@@ -1,5 +1,7 @@
 package za.mycput;
 
+//just a cooment on dog class
+
 public class Dog {
     private String name;
     private Person owner;
